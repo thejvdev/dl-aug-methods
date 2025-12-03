@@ -38,3 +38,7 @@ A custom implementation of **LRFinder** identified a peak learning rate of **1.5
 
 The results clearly demonstrate that data augmentation techniques **enhance the generalization** of deep neural networks on CIFAR-10 compared to standard training. While all evaluated methods provided improvements, **FMix achieved the highest test accuracy**, showing the most consistent gains across all folds.  
 This suggests that feature-level mixing strategies, such as FMix, can be particularly effective for improving robustness and generalization in image classification tasks.
+
+## Author
+
+Created by [Denys Bondarchuk](https://github.com/thejvdev). Feel free to reach out or contribute to the project!
